@@ -8,6 +8,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem "paperclip", "~> 4.3"
 gem "paperclip-dropbox", ">= 1.1.7"
 gem "figaro"
+gem 'devise'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
